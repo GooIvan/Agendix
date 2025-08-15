@@ -32,4 +32,4 @@ Simplificar la forma en que gestionas tu vida diaria, uniendo planificación y t
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/noteplan.git
+   git clone https://github.com/GooIvan/noteplan.git
