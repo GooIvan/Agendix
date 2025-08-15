@@ -63,3 +63,11 @@ rails s
 ```bash
 Remove-Item -Recurse -Force tasknotes\.git
 ```
+
+# 🚀 Pasos rápidos para crear FrondEnd con flutter
+flutter pub add
+
+instalar http
+instalar bloc
+instalar equatable
+get_it
